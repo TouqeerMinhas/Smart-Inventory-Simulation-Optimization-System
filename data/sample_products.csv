@@ -1,0 +1,4 @@
+product,initial_stock,daily_demand,reorder_point,order_quantity,lead_time,selling_price,unit_cost,holding_cost,order_cost,shortage_cost
+Wireless Mouse,120,15,60,120,3,1000,600,2,500,100
+USB Keyboard,80,8,35,80,3,1800,1100,3,600,150
+Desk Lamp,50,5,25,60,4,2500,1500,4,700,200
